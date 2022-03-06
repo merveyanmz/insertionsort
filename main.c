@@ -8,7 +8,7 @@
 #include <stdio.h>
 #define SIZE 100
 
-int main() {
+int main(void) {
    
        int i,k,n,ekle;
        int ar[SIZE];
